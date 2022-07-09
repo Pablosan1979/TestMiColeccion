@@ -39,7 +39,5 @@ public class TestMiColeccion {
         mc1.mostrarContenido();
         System.out.println("Palindrome =" +mc1.esPalindrome()); 
         System.out.println("Esta el 3 en la lista ? "+mc1.buscar(3)); 
-    
     } 
-
 }
